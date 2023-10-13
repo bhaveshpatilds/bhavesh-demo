@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
-const LoginForm = () => {
+const Login = () => {
 
 
   const handleSubmit = (event) => {
@@ -29,4 +29,6 @@ const LoginForm = () => {
   );
 };
 
-export default LoginForm;
+export default Login;
+
+//React LoginForm
